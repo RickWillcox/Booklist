@@ -9,7 +9,7 @@ Clean Code
 ```
 ### Finished
 ```
-
+The Bible of Algorithms & Data Structures ⭐⭐✩✩✩
 ```
 ### Want to read
 ```
